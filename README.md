@@ -1,4 +1,4 @@
-# Grade Calculator
+# 🌟Grade Calculator🌟
 
 ## Overview
 
